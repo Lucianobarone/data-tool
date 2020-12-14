@@ -16,10 +16,11 @@
    - PORT: puerto Localhost
    ```
    
+3. > **Parado en las carpetas `Data-tool/data-tool-api` && `Data-tool/data-tool-app` correr `npm i`**
 
-3. > **Parado en la carpeta `Data-tool/data-tool-api` correr `npm run seed` en la terminal.**
+4. > **Parado en la carpeta `Data-tool/data-tool-api` correr `npm run seed` en la terminal.**
 
-4. > **Parado en las carpetas `Data-tool/data-tool-api` && `Data-tool/data-tool-app` correr `npm i` y luego `npm start` en la terminal.**
+5. > **Parado en las carpetas `Data-tool/data-tool-api` && `Data-tool/data-tool-app` correr `npm start`**
 
 
 
