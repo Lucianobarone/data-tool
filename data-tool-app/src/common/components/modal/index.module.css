@@ -1,0 +1,66 @@
+.modalContainer :nth-child(2) {
+  border-radius: 15px;
+}
+
+.modalContainer p {
+  color: grey;
+  margin-right: 25px;
+  margin-left: 5px;
+}
+.modalContainer div:nth-child(1) {
+  font-size: 21px;
+  color: rgb(70, 70, 70);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+.image {
+  width: 400px;
+  margin: 0 auto !important;
+  display: flex;
+  border-radius: 7px;
+}
+
+.remove {
+  display: flex;
+  background-color: red;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+.spanRowComtainer {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: start;
+}
+
+.spanRow {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-around;
+}
+
+.disabled {
+  background-color: transparent !important;
+  color: grey !important;
+  cursor: default !important;
+  border: transparent !important;
+  outline: none !important;
+  margin: 0 auto !important;
+  display: block;
+}

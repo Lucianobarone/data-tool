@@ -1,0 +1,16 @@
+.container {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  padding: 10%;
+  flex-direction: column;
+}
+
+.registerButton {
+  border: 1px solid #ecd8b3 !important;
+  border-radius: 5px;
+  width: 110px;
+  outline: none;
+  background-color: #f5deb3 !important;
+  color: #5e4b28 !important;
+}
