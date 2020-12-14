@@ -9,9 +9,9 @@
 ```
    - DATABASE: nombre de la Base de Datos.
  
-   - USER: usuario Postgres si posee uno. (por default `postgres`)
+   - USER: usuario Postgres si posee uno. (por default: postgres)
  
-   - PASSWORD: contraseña Postgres si posee una.* (Windows)
+   - PASSWORD: contraseña Postgres si posee una. (Windows)
 
    - PORT: puerto Localhost
    ```
